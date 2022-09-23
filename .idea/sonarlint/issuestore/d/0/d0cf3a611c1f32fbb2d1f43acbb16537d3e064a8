@@ -1,0 +1,7 @@
+
+t
+java:S1210#"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(î×Üøÿÿÿÿ
+r
+java:S1104"WMake requestTime a static final constant or non-public and provide accessors if needed.(ÍÇ•Äøÿÿÿÿ
+q
+java:S1104 "VMake jobUseTime a static final constant or non-public and provide accessors if needed.(‰Â¢ûÿÿÿÿ

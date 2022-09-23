@@ -1,0 +1,8 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "answer".(µ™ä‚
+c	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¢¾ú
+A
+java:S1481"+Remove this unused "answer" local variable.(µ™ä‚
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

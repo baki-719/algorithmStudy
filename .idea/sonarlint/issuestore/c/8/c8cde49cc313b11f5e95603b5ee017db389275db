@@ -1,0 +1,6 @@
+
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+D
+java:S5413N")Verify that "remove()" is used correctly.(ğ²ğûÿÿÿÿ
+7
+java:S16436"Use a StringBuilder instead.(É¸íıÿÿÿÿ

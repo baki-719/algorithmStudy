@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎùûŠúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯«îéÿÿÿÿÿ
+k
+java:S1104!"PMake size a static final constant or non-public and provide accessors if needed.(õž˜óøÿÿÿÿ
+l
+java:S1104-"VMake myFileList a static final constant or non-public and provide accessors if needed.(µÝ‹§
+s
+java:S1104."XMake subDirectory a static final constant or non-public and provide accessors if needed.(“¥æßùÿÿÿÿ
+e
+java:S11040"PMake size a static final constant or non-public and provide accessors if needed.(ÿã´S

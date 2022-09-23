@@ -1,0 +1,9 @@
+
+t
+java:S1210D"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¥¼ŠÊúÿÿÿÿ
+k
+java:S11049"UMake departure a static final constant or non-public and provide accessors if needed.(úÖ¾Ð
+m
+java:S1104:"RMake arrive a static final constant or non-public and provide accessors if needed.(³«Þžüÿÿÿÿ
+h
+java:S1104;"RMake isUsed a static final constant or non-public and provide accessors if needed.(ï¡¡ü

@@ -1,0 +1,13 @@
+
+R
+java:S1854ƒ"6Remove this useless assignment to local variable "sb".(€ê±Õúÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+T
+java:S1155T">Use isEmpty() to check whether the collection is empty or not.(ŒÝ†ß
+T
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.(ž‚¨Ÿ
+T
+java:S4973t"9Use the "equals" method if value comparison was intended.(¸ šòÿÿÿÿÿ
